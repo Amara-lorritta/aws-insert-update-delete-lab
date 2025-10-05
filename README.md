@@ -5,7 +5,7 @@
 This hands-on AWS lab demonstrates how to insert, update, delete, and import data in a relational database using Structured Query Language (SQL).
 The lab uses an Amazon EC2 Command Host connected to a MySQL database containing the world schema with three tables: city, country, and countrylanguage.
 
-At the end of this lab, you will understand how to perform data manipulation operations (DML) such as INSERT, UPDATE, DELETE, and IMPORT.
+At the end of this lab, I will understand how to perform data manipulation operations (DML) such as INSERT, UPDATE, DELETE, and IMPORT.
 
 ---
 
